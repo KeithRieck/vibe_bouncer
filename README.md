@@ -10,3 +10,5 @@ This was a very quick test of [Google Antigravity](https://antigravity.google/) 
         * There should be one Phaser Scene object
         * There should be a Bouncer class that extends the Phaser Sprite class, where Bouncer encapsulates the bouncing behavior.
         * There  should be a Circle class that extends Bouncer.  Later, we may have other Bouncer objects on the screen
+3. Third Prompt:
+    * Make this a Progressive Web App so it will cache files locally and execute on a browser or phone or tablet even if it has no internet connection.
