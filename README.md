@@ -8,5 +8,5 @@ This was a very quick test of [Google Antigravity](https://antigravity.google/) 
 2. Second Prompt:
     * It should be more object oriented.
         * There should be one Phaser Scene object
-    * There should be a Bouncer class that extends the Phaser Sprite class, where Bouncer encapsulates the bouncing behavior.
-    * There  should be a Circle class that extends Bouncer.  Later, we may have other Bouncer objects on the screen
+        * There should be a Bouncer class that extends the Phaser Sprite class, where Bouncer encapsulates the bouncing behavior.
+        * There  should be a Circle class that extends Bouncer.  Later, we may have other Bouncer objects on the screen
