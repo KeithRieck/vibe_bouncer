@@ -1,7 +1,7 @@
 Hosted at: https://keithrieck.github.io/vibe_bouncer/index.html
 
 # vibe_bouncer
-This was a very quick test of [Google Antigravity](https://antigravity.google/) for creating a quick app.
+This was a very quick test of [vibe coding](https://youtu.be/1A6uPztchXk) in [Google Antigravity](https://antigravity.google/).  I generated a quick, meaningless graphics app.
 
 1. First Prompt:
     * Create a project in [ES2020](https://www.w3schools.com/js/js_2020.asp) and using the [Phaser game library](https://phaser.io/) that displays 64 small circles that bounce around the screen.  The project should not depend on any server side code and should be execute entirely in a browser.  It should easily display on tablets as well as web browsers.
