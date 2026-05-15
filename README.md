@@ -1,4 +1,4 @@
-Hosted at: https://keithrieck.github.io/vibe_bouncer/index.html
+Hosted at: https://keithrieck.github.io/vibe_antigravity_bouncer/index.html
 
 # vibe_bouncer
 This was a very quick test of [vibe coding](https://youtu.be/1A6uPztchXk) in [Google Antigravity](https://antigravity.google/).  I generated a quick, meaningless graphics app.
